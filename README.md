@@ -1,17 +1,17 @@
 # 数据分析project
 
 - [material]()
-  - [数据分析]()
-  - [数据可视化]()
-  - [机器学习]()
+  - [Data Analysis]()
+  - [Data Visualisation]()
+  - [Machine Learning]()
 
-- [项目数据]()
+- [Project Data]()
 
 - [code]()
-  - [调用库]()
-    - [词云绘制]()
-    - [地图绘制]()
-  - [问题解决]()
+  - [libraries in use]()
+    - [wordcloud 词云绘制]()
+    - [map 地图绘制]()
+  - [Problems & Solutions]()
   
 
   
