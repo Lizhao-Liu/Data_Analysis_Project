@@ -11,6 +11,7 @@
 ## [code](https://github.com/Lizhao-Liu/Dataanalysis_python/tree/main/Code)
   - Environment
     - [wordcloud 词云绘制]()
+    ` pip install wordcloud`
     - [map 地图绘制]()
   - [Problems & Solutions]()
 
