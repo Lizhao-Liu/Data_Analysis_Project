@@ -13,9 +13,7 @@
     - [wordcloud 词云绘制]()
     - [map 地图绘制]()
   - [Problems & Solutions]()
-  
-## Results sample
-[map](file:///Users/liulizhao/Library/Containers/com.tencent.xinWeChat/Data/Library/Application%20Support/com.tencent.xinWeChat/2.0b4.0.9/60ddf2bd476e6236daf5a5b0252ce299/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/File/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE.html)
+
   
 
   
