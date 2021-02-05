@@ -11,10 +11,10 @@
 ## [Project Data]()
 
 
-## [code](https://github.com/Lizhao-Liu/Dataanalysis_python/tree/main/Code)
+## [code]https://github.com/Lizhao-Liu/Dataanalysis_python/blob/main/Code/DA_project.ipynb)
   - Environment
     - [wordcloud 词云绘制]()
-    ` pip install wordcloud`
+      ` pip install wordcloud`
     - [map 地图绘制]()
   - [Problems & Solutions]()
 
