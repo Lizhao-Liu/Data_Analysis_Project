@@ -8,7 +8,7 @@
   - [Data Visualisation](https://github.com/Lizhao-Liu/Dataanalysis_python/tree/main/materials/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96)
   - [Machine Learning](https://github.com/Lizhao-Liu/Dataanalysis_python/tree/main/materials/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 
-## [Project Data]()
+## [Project Data](https://github.com/Lizhao-Liu/Dataanalysis_python/blob/main/IPO.csv)
 
 
 ## [code](https://github.com/Lizhao-Liu/Dataanalysis_python/blob/main/Code/DA_project.ipynb)
