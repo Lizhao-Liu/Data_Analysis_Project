@@ -11,7 +11,7 @@
 ## [Project Data](https://github.com/Lizhao-Liu/Dataanalysis_python/blob/main/IPO.csv)
 
 
-## [code](https://github.com/Lizhao-Liu/Dataanalysis_python/blob/main/Code/DA_project.ipynb)
+## [code](https://github.com/Lizhao-Liu/Dataanalysis_python/blob/main/Code/Data_Analysis_Project.ipynb)
   - Environment
     - [wordcloud 词云绘制]()
       ` pip install wordcloud`
